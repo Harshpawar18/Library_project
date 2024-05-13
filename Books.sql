@@ -1,4 +1,4 @@
--- Insert 30 real records into the Books table
+
 INSERT INTO Books (BookID, Title, AuthorID, ISBN, Genre, PublishedDate, QuantityAvailable)
 VALUES
     (1, 'To Kill a Mockingbird', 4, '9780061120084', 'Fiction', '1960-07-11', 12),
